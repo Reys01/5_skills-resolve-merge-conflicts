@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Texto que entre en conflicto con lo ya añadido 
